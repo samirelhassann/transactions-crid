@@ -1,5 +1,5 @@
 {
-  "name": "api-rest-nodejs",
+  "name": "transactions-crud",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
